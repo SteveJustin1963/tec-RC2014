@@ -5,3 +5,4 @@ https://rc2014.co.uk/
 
 https://github.com/RC2014Z80/RC2014
 
+use the hexload Basic program to upload your work.
